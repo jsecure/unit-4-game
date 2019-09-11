@@ -1,0 +1,26 @@
+.crystal-image {
+    width: 300px;
+    height: 300px;
+    margin: 0 5px 0 5px;
+
+  }
+
+  #crystals {
+    text-align: center;
+
+  }
+
+  .win-lose-card{
+
+    border: groove 10px lawngreen;
+
+  }
+
+  #win {
+color:blue;
+  }
+
+  #lose{
+color:red;
+  }
+
